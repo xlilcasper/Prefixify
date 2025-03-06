@@ -1,0 +1,14 @@
+{
+  "name": "Prefixify",
+  "description": "Allows you to add a prefix to all your messages.",
+  "authors": [
+    {
+      "name": "casper",
+      "id": "1"
+    }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "GifIcon"
+  }
+}
